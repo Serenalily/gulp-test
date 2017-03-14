@@ -5,7 +5,7 @@
   "homepage": "http://index",
   "repository": {
     "type": "git",
-    "url": "https://git.oschina.net/xxxx"
+    "url": "git@github.com:Serenalily/gulp-test.git"
   },
   "author": "poley <805989474@qq.com>",
   "license": "ISC",
